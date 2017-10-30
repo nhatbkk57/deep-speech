@@ -1,0 +1,12 @@
+numpy
+scipy
+rarfile
+Pillow
+nltk>=3.2.2
+scikit-learn==0.18.0
+tensorflow==1.0.1
+h5py==2.6.0
+keras==1.1.1
+argparse
+progressbar
+soundfile
