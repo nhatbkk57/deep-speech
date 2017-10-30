@@ -2,5 +2,5 @@
 
 ## Deep Learning for ARS in Speech Recognition
 
-###Description: 
+### Description: 
 Final Project IT6300 - Multimedia Data Retrieval
